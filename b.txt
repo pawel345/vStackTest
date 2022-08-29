@@ -6301,7 +6301,7 @@ drwxr-xr-x 4 jenkins domain users 4096 Aug 29 20:19 9640
 drwxr-xr-x 4 jenkins domain users 4096 Aug 30 00:05 9639
 
 /var/lib/jenkins/jobs/BrowserStackVSTS/builds/:
-total 216
+total 212
 -rw-r--r-- 1 jenkins jenkins         0 May 10  2018 legacyIds
 lrwxrwxrwx 1 jenkins jenkins         2 May 10  2018 lastUnstableBuild -> -1
 drwxr-xr-x 2 jenkins domain users 4096 Nov  1  2019 5090
@@ -6310,7 +6310,6 @@ lrwxrwxrwx 1 jenkins domain users    4 Apr 17  2020 lastFailedBuild -> 6730
 lrwxrwxrwx 1 jenkins domain users    4 Apr 17  2020 lastSuccessfulBuild -> 6731
 lrwxrwxrwx 1 jenkins domain users    4 Apr 17  2020 lastStableBuild -> 6731
 drwxr-xr-x 3 jenkins domain users 4096 Oct 11  2021 11583
-drwxr-xr-x 3 jenkins domain users 4096 Aug 17 22:01 12307
 drwxr-xr-x 3 jenkins domain users 4096 Aug 18 20:34 12308
 drwxr-xr-x 3 jenkins domain users 4096 Aug 18 20:47 12309
 drwxr-xr-x 3 jenkins domain users 4096 Aug 20 00:23 12310
@@ -6359,6 +6358,6 @@ drwxr-xr-x 3 jenkins domain users 4096 Aug 27 00:36 12352
 drwxr-xr-x 3 jenkins domain users 4096 Aug 28 01:14 12353
 drwxr-xr-x 3 jenkins domain users 4096 Aug 28 01:16 12354
 drwxr-xr-x 3 jenkins domain users 4096 Aug 28 05:35 12355
--rw-r--r-- 1 jenkins domain users  144 Aug 30 00:20 permalinks
 drwxr-xr-x 3 jenkins domain users 4096 Aug 30 00:20 12356
-drwxr-xr-x 2 jenkins domain users 4096 Aug 30 00:21 12357
+-rw-r--r-- 1 jenkins domain users  144 Aug 30 00:32 permalinks
+drwxr-xr-x 3 jenkins domain users 4096 Aug 30 00:32 12357
